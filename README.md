@@ -1,2 +1,2 @@
 # project02
-this uis my project number second
+https://nasimkhaninfo.github.io/project02/
